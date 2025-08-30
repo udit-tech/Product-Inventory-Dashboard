@@ -3,4 +3,4 @@ A simple web-based product inventory dashboard built with HTML and JavaScript. I
 
 # UI Element
 
-Checkbox, Product List, Total Pricing.
+Checkbox, Product List, Total Pricing
